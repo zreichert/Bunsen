@@ -1,0 +1,14 @@
+{
+  "name": "worldpolice-bunsen",
+  "version": "0.0.0",
+  "author": "worldpolice",
+  "summary": "The proof of concept for Bunsen CI.",
+  "license": "New BSD",
+  "source": "https://github.com/WorldPolice/Bunsen",
+  "project_page": "https://github.com/WorldPolice/Bunsen",
+  "issues_url": "https://github.com/WorldPolice/Bunsen/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
